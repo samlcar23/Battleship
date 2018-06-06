@@ -385,8 +385,8 @@ public class HomePageGui extends JFrame implements MouseListener,
 	public void startMultiplayer() {
 
 		int portNum = 5445;
-		//aws ip = 13.58.209.10
-		String serverAdd = "13.58.209.10";
+		//aws ip = 18.217.92.181
+		String serverAdd = "18.217.92.181";
 		MultiplayerMenu gui = new MultiplayerMenu();
 		gui.setLocationRelativeTo(null);
 		
