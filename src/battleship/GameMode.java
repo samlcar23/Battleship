@@ -1,4 +1,3 @@
-package battleship;
 
 //Types of game modes
 /**

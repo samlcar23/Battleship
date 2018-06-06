@@ -1,4 +1,3 @@
-package battleship;
 
 import java.awt.Button;
 import java.awt.Color;
